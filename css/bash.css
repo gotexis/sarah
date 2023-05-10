@@ -31,7 +31,7 @@ body {
 
 .browser {
   height: 75vh;
-  width: 65vw;
+  width: 90vw;
   border-radius: 10px 30px;
   background: #333;
   box-shadow: 0 10px 45px -5px rgba(0,0,0,0.8)
